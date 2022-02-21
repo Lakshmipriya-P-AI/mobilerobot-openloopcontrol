@@ -30,7 +30,8 @@ Step5: Execute the python program and record the movements.
 <br/>
 
 ## Program :
-```python
+
+```
 from robomaster import robot
 import time
 
