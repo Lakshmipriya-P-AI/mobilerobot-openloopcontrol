@@ -69,7 +69,7 @@ if __name__ == '__main__':
 
 Initial Position :![](./img/initial.PNG)
 
-Final Position :![](./img/final.png)
+Final Position :![](./img/final.PNG)
 
 <br/>
 <br/>
